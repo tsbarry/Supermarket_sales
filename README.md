@@ -118,6 +118,6 @@ The analysis results are summarized as follows:
 
 ### Recommendations 
 Based on the analysis, the following is recommended: 
-- invest in marketing and promotions during peak seasons to maximize revenue.
+- Invest in marketing and promotions during peak seasons to maximize revenue.
 - Focus on expanding and promoting products in branch C.
 - Implement a customer segmentation strategy to target both Members and Normal customers effectively. 
