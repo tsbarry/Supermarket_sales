@@ -63,7 +63,7 @@ WHERE invoice_id IN (
   ) AS duplicates;
 ```
 
--What is the total sales revenue in the city of Yangon between 2018 & 2019?
+- What is the total sales revenue in the city of Yangon between 2018 & 2019?
 
 ```sql
 SELECT SUM(total) AS total_sales_revenue
