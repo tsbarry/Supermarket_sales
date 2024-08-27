@@ -26,7 +26,6 @@ Sales Data: The primary dataset used for this analysis is the "supermarketsales.
 ### Tools 
 
 - SQL [PostgreSQL--psycopg2] - Create a schema, send CSV data into a database, data cleaning and analysis. 
-- Tableau -Creating reports
 
 ### Data Preparation Cleaning 
   In the initial data preparation phase, we performed the following tasks:
